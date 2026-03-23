@@ -54,6 +54,5 @@ This project focuses on analyzing sales data using Microsoft Excel to generate m
 This project demonstrates practical Excel skills including data cleaning, analysis, and dashboard creation. It also highlights how discount strategies impact overall profitability.
 
 ## Author
-Shivam Sharma
 
 Shivam Sharma
