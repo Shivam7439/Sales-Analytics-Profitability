@@ -46,7 +46,8 @@ This project focuses on analyzing sales data using Microsoft Excel to generate m
 
 ## Dashboard Preview
 
-![excel_dashboard_preview png](https://github.com/user-attachments/assets/c157b176-e066-47cc-9cae-25c143beeae4)
+![excel_dashboard_preview png](https://github.com/user-attachments/assets/bd4b1b01-b447-46c7-a2cd-e3384dc7f6d2)
+
 
 
 ## Conclusion
